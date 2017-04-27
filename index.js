@@ -1,6 +1,6 @@
 // write your code below!
-var name = "MaxS"
+var name = "Max"
 var height = 74
-var message = ` is ${height} inches tall`
-
+var message = `${name} is ${height} inches tall`
+console.log(message)
 module.exports = {name, height, message}
