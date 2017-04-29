@@ -1,6 +1,6 @@
-learn submit// write your code below!
+// write your code below!
 var name = "Susan"
 var height = "40"
-var message = `is ${height} inches tall`
+var message = is ''${height} inches tall`
 
 module.exports = {name, height, message}
