@@ -1,4 +1,5 @@
 // write your code below!
+//completed lesson
 var name = "Joe"
 var height = 74
 var message = `${name} is ${height} inches tall`
