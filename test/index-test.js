@@ -23,4 +23,10 @@ describe('what-is-a-test', () => {
   })
 })
 */
+if (index.name === "Susan") {console.log("This is correct")}
+else {console.log("Expected name to be Susan")}
 
+if(index.height < 40) {console.log("This is correct")}
+else {console.log("Expected height to be less than 40")}
+
+console.log(index.name " is" index.height " tall")
