@@ -21,7 +21,3 @@ describe('what-is-a-test', () => {
     })
   })
 })
-
-
-var message = `${name} and ${height} inches tall`
-module.exports = {name, height, message}
