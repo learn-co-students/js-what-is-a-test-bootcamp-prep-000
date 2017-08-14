@@ -26,3 +26,9 @@ describe('what-is-a-test', () => {
 
 var message = `${name} and ${height} inches tall`
 module.exports = {name, height, message}
+
+describe('Name'), () => {
+it('returns Susan "', () => {
+  expect(index.name)toEqual('Susan')
+})
+})
