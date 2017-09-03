@@ -1,5 +1,5 @@
 var index = require("../index.js")
-
+console.log(name)
 /*
 describe('what-is-a-test', () => {
   describe('Name', () => {
@@ -23,4 +23,3 @@ describe('what-is-a-test', () => {
   })
 })
 */
-
