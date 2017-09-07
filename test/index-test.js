@@ -1,5 +1,4 @@
 var index = require("../index.js")
-console.log(index)
 /*
 describe('what-is-a-test', () => {
   describe('Name', () => {
