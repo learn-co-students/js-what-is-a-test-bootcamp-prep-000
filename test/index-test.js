@@ -1,5 +1,12 @@
 var index = require("../index.js")
 
+var name = "Joe"
+var height = 74
+var message = `${name} is ${height} inches tall`
+
+module.exports = {name, height, message}
+
+
 /*
 describe('what-is-a-test', () => {
   describe('Name', () => {
@@ -23,4 +30,3 @@ describe('what-is-a-test', () => {
   })
 })
 */
-
