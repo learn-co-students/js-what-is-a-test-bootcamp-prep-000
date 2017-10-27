@@ -1,5 +1,5 @@
 // write your code below!
-vr name = "Susan"
+var name = "Susan"
 var height = 34
 var message = `${name} is ${height} inches tall`
 
