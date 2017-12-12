@@ -64,7 +64,7 @@ There is a lot here. Right now, you really just need to focus on a few different
   })
 ```
 
-If you look at the line that begins with `expect` you'll see this: `expect(index.name).toEqual('Susan')`. Read that out in English "Expect index.name to equal Susan". That's exactly what it's saying! If we continue down to the Height section you'll see this code:
+If you look at the line that begins with `expect` you'll see this: `expect(index.name).toEqual('Susan')`. Read that out in English "Expect `index.name` to equal Susan". That's exactly what it's saying! If we continue down to the Height section you'll see this code:
 
 ```javascript
   describe("Height", () => {
