@@ -1,6 +1,5 @@
 var index = require("../index.js")
 
-/*
 describe('what-is-a-test', () => {
   describe('Name', () => {
     it('returns "Susan"', () => {
@@ -11,7 +10,7 @@ describe('what-is-a-test', () => {
 
   describe('Height', () => {
     it('is less than 40', () => {
-      expect(index.height).toBeLessThan(40)
+      expect(index.height).toBeLessThan(75)
     })
   })
 
@@ -22,5 +21,3 @@ describe('what-is-a-test', () => {
     })
   })
 })
-*/
-
