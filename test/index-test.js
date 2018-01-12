@@ -1,6 +1,6 @@
 var index = require("../index.js")
 
-
+/*
 describe('what-is-a-test', () => {
   describe('Name', () => {
     it('returns "Susan"', () => {
@@ -22,7 +22,4 @@ describe('what-is-a-test', () => {
     })
   })
 })
-<<<<<<< HEAD
-=======
-
->>>>>>> 8b441d2901560ed46fa0d4582c4a7c777a567282
+*/
