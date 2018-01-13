@@ -1,6 +1,8 @@
 // write your code below!
-var name = "Joe"
-var height = 74
-var message = `${name} is ${height} inches tall`
+var name = "Passing"
+var height = 0
+var message = `${height} ${name}`
+learn submit
+
 
 module.exports = {name, height, message}
