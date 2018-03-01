@@ -9,15 +9,16 @@ expect (index.name).toEqual('Susan')
       })
   })
 
-  describe("Height", () => {
-    it("is less than 40", () => {
-      expect(index.height).toBeLessThan(40)
+describe("Height", () => {
+    it("is toBeLessThan 40, 
+    () => {
+expect(index.height).toBeLessThan(40)
     })
   })
 
-  describe("message, () => {
-    it("gives the name and height", () => {
-    expect(index.message).toInclude(index.height)
+describe("message, () => {
+  it("gives the name and height", () => {
+  expect(index.message).toInclude(index.height)
     })
   })
 */
