@@ -24,7 +24,7 @@ We have our code, now let's take a look at the tests. They are located in the `t
 ```javascript
 var index = require("../index.js")
 
-/* 
+
 
 describe("what-is-a-test", () => {
   describe("Name", () => {
@@ -49,7 +49,7 @@ describe("what-is-a-test", () => {
 
 })
 
-*/
+
 ```
 
 The first thing you'll notice is that all of the code is commented out using the `/*` and `*/` block commenting syntax. This is because we will get into actually running the tests in the next lesson. This lesson, let's just walk through what you are seeing. In the next lesson the `/*` and `*/` will be removed.
