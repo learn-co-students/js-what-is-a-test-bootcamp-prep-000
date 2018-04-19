@@ -10,6 +10,7 @@ Let's walk through the basics of testing. You'll discover it's not too different
 var name = "Joe"
 var height = "74"
 var message = `${name} is ${height} inches tall`
+console.log(message)
 
 module.exports = {name, height, message}
 ```
