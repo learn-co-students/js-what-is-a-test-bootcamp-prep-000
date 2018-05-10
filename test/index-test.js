@@ -1,6 +1,6 @@
 var index = require("../index.js")
-
-
+console.log("git wants me to change something so hi there hoh there next lesson please")
+/*
 describe('what-is-a-test', () => {
   describe('Name', () => {
     it('returns "Susan"', () => {
@@ -23,4 +23,4 @@ describe('what-is-a-test', () => {
   })
 })
 
-
+*/
