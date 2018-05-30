@@ -12,7 +12,8 @@ var height = "74"
 var message = `${name} is ${height} inches tall`
 
 module.exports = {name, height, message}
-```
+
+console.log(mesage)
 
 This should look familiar except for that third line: `` var message = `${name} is ${height} inches tall` ``. It's actually pretty cool what that line does. Explore what ends up in the `message` variable by typing `console.log(message)` on the last line and then run your `index.js` file. You should see `"Joe is 74 inches tall"`. Pretty cool right? If you create a string wrapping it in back-ticks (`` ` ``) you can then use your variables directly in the string to create a sentence like
 we just did. The key is when you use a variable you have to wrap the variable itself in the `${` and `}`. If you were to modify `message` to look like this: `` var message = `name is height inches tall` ``, and run your code again you'd get `"name is height inches tall"`. That's not what you want! The `${` and `}` tell Javascript to grab the value inside the variable, not just that variable name. 
