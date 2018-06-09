@@ -83,7 +83,7 @@ The interesting line here is `expect(index.height).toBeLessThan(40)`. If you rea
       expect(index.message).toInclude(index.height)
     })
   })
-```
+````
 
 This one has two `expect` statements. If you read them out as English you'll discover that the tests expects `index.message` to include both `index.name` and `index.height`.
 
