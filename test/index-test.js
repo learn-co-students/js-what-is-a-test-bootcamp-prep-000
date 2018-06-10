@@ -1,4 +1,4 @@
-var index = require("../index.js")
+var index = require("/Users/brookkalkhoven/.atom/.learn-ide/home/BrookK1990/js-what-is-a-test-bootcamp-prep-000/index.js")
 
 
 describe('what-is-a-test', () => {
