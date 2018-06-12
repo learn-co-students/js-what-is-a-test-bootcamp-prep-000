@@ -1,6 +1,6 @@
 // write your code below!
-var name = "Joe"
+var names = "Joe"
 var height = 74
-var message = `${name} is ${height} inches tall`
+var message = `${names} is ${height} inches tall`
 
-module.exports = {name, height, message}
+module.exports = {names, height, message}
