@@ -4,8 +4,8 @@ As you can imagine it gets a bit unwieldy to have hundreds of `if` statements th
 
 For many years, `if` statements is all we had though. So, we kept using them. In the past few years, programmers have created a bunch of new testing tools to make testing easier when dealing with many many many many tests. It doesn't matter too much, but the main one we are going to be using is called [Mocha](https://mochajs.org/). 
 
-Let's walk through the basics of testing. You'll discover it's not too different from what you've experienced in the last few labs. First things first, open up `index.js` in your terminal. You are going to see mostly familiar things:
-
+Let's walk through the basics of testing. You'll discover it
+'s not too different from what you've experienced in the last few labs. First things first, open up `index.js` in your terminal. You are going to see mostly familiar things:
 ```javascript
 var name = "Joe"
 var height = "74"
