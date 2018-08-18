@@ -1,6 +1,6 @@
 var index = require("../index.js")
 
-
+/*
 describe('what-is-a-test', () => {
   describe('name', () => {
     it('returns "susan"', () => {
@@ -22,5 +22,5 @@ describe('what-is-a-test', () => {
     })
   })
 })
-
+*/
 

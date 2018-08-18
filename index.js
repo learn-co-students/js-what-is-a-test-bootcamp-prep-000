@@ -1,7 +1,7 @@
 // write your code below!
 var name = "Joe"
 var height = 74
-var message = `${name} is ${Height} inches tall`
+var message = `${"Joe"} is ${74} inches tall`s
 
 module.exports = {name, height, message}
 console.log(message)
