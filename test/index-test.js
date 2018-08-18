@@ -5,7 +5,7 @@ describe('what-is-a-test', () => {
   describe('name', () => {
     it('returns "susan"', () => {
       expect(index.name).toEqual('susan')
-    })
+    }) language
   })
 
 
