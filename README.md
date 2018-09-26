@@ -1,3 +1,4 @@
+
 # Professional Testing With Javascript
 
 As you can imagine it gets a bit unwieldy to have hundreds of `if` statements throughout your code. Beyond them being just a bit large, they lack organization when categorizing features and they also can be somewhat difficult to read. All of these problems are amplified when there are so many!
