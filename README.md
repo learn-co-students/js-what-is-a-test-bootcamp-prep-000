@@ -9,7 +9,10 @@ Let's walk through the basics of testing. You'll discover it's not too different
 ```javascript
 var name = "Joe"
 var height = "74"
+
 var message = `${name} is ${height} inches tall`
+
+
 
 module.exports = {name, height, message}
 ```
