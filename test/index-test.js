@@ -24,6 +24,6 @@ var index = require("../index.js")
       expect(index.message).toInclude(index.height)
     })
   })
-})
+
 
 
