@@ -1,4 +1,5 @@
 var index = require("../index.js")
+var test = 'test'
 
 /*
 describe('what-is-a-test', () => {
