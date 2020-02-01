@@ -5,3 +5,4 @@ var message = `${Name} is ${height+1} inches tall`;
 
 module.exports = {Name, height, message};
 console.log(message);
+
