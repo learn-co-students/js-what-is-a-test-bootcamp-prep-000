@@ -1,4 +1,4 @@
-# Professional Testing With Javascript
+clear# Professional Testing With Javascript
 
 ## Introduction
 
