@@ -1,4 +1,5 @@
 var index = require("../index.js")
+// console.log(index.message)
 
 /*
 describe('what-is-a-test', () => {
@@ -23,4 +24,3 @@ describe('what-is-a-test', () => {
   })
 })
 */
-
